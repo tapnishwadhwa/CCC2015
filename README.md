@@ -1,3 +1,3 @@
-# CCC2015
+# CCC 2015
 
 Answers to the 2015 Canadian Computing Competition 
